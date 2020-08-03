@@ -34,3 +34,5 @@ cfg.dataFolder : 表示待预测样本路径，默认为'./testData/'，可将'.
 #### 注：
 
 初赛单模型评分为0.2473，采用5个epoch模型预测结果集成后，评分为排行榜的0.2494
+
+模型实现部分代码fork自： https://github.com/Hzzone/Precipitation-Nowcasting
